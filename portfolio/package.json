@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://gracepimentel.github.io/portfolio",
+  "homepage": "https://GracePimentel23.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
